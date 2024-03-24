@@ -28,10 +28,12 @@
  }
  .col100{
     width: 100%;
-    height: 300px;
-    background-color: blueviolet;
-
+    height: 250px;
  }
+  .col100l{
+    width: 100%;
+    height: 400px;
+  }
  .col60{
     width: 60%;
     padding: 10px 0px;
@@ -50,9 +52,10 @@
    
  } .py-50{
     padding: 50px 0;
- }.col40{
+ }
+ .col40{
     width: 40%;
-    height: 400px;
+    height: 250px;
  }
  .pink{
     background-color: pink;
@@ -62,4 +65,8 @@
  }
  .bg-gray{
     background-color: rgb(182, 181, 181);
+ }.violet{
+    background-color: blueviolet;
+ }.green{
+    background-color: green;
  }
